@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi!! 
 
-<!--
-**pakhi-noor/pakhi-noor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building software that feels **reliable, private, and well thought out**.
 
-Here are some ideas to get you started:
+Most of my projects start with a simple question:
+“How would this feel if someone used it every day?”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I enjoy working on
+
+- Small tools that solve real problems
+- Clean backend logic and data flow
+- Security-aware designs (auth, access, isolation)
+- Interfaces that don’t feel cluttered or loud
+
+I care a lot about **clarity** — in code, UI, and system design.
+
+---
+
+### 🧩 What you’ll find here
+
+This GitHub is a mix of:
+- Personal projects I actually use
+- Experiments while learning new concepts
+- Systems I’ve built end-to-end, from idea to polish
+
+Some projects evolve slowly. Others are quick builds.
+All of them are intentional.
+
+---
+
+### 🌱 Currently exploring
+
+- Secure application patterns
+- Backend systems & APIs
+- Cloud-ready project setups
+- Better ways to structure personal software
+
+---
+
+✨ If something here catches your eye, feel free to explore the code. ✨
